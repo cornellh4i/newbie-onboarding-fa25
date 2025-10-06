@@ -18,7 +18,7 @@ export default function Home() {
             lg:bg-gray-200 lg:p-4 dark:border-neutral-800 dark:bg-zinc-800/30
             dark:from-inherit lg:dark:bg-zinc-800/30"
         >
-          Get started by editing&nbsp;
+          Lillian Wang was here!&nbsp;
           <code className="font-mono font-bold">src/app/page.tsx</code>
         </p>
         <div
