@@ -21,6 +21,10 @@ export default function Home() {
           Get started by editing&nbsp;
           <code className="font-mono font-bold">src/app/page.tsx</code>
         </p>
+
+        <p>
+          First name: Oshin <br /> Last name: Rex
+        </p>
         <div
           className="fixed bottom-0 left-0 flex h-48 w-full items-end
             justify-center bg-gradient-to-t from-white via-white lg:static
